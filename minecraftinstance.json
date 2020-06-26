@@ -1233,6 +1233,24 @@
       "installedTargets": null
     },
     {
+      "addonID": 324318,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": null,
+      "dateInstalled": "2020-06-26T22:51:54.222799Z",
+      "dateUpdated": "2020-06-26T22:51:54.225556Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:51:54.225556Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 267602,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
