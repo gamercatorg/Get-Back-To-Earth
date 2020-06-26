@@ -91,6 +91,21 @@
       "fileSize": 24078
     },
     {
+      "folderName": "modularmachinery-1.12.2-1.10.0.jar",
+      "fingerprint": 3728747585,
+      "fileDateHash": 1530673194,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3728747585
+      ],
+      "status": 1,
+      "timestamp": "2020-06-26T23:43:24.91056Z",
+      "lastWriteTimeUtc": "2020-06-26T23:41:03.9441374Z",
+      "queryTimestamp": "2020-06-26T23:43:25.627072Z",
+      "fileCount": 1,
+      "fileSize": 654742
+    },
+    {
       "folderName": "Forgelin-1.8.4.jar",
       "fingerprint": 387064965,
       "fileDateHash": 1353059586,
@@ -348,15 +363,15 @@
     {
       "folderName": "Galacticraft-Planets-1.12.2-4.0.2.272.jar",
       "fingerprint": 1567230232,
-      "fileDateHash": 696174437,
+      "fileDateHash": 1752820418,
       "sectionID": 8,
       "individualFingerprints": [
         1567230232
       ],
       "status": 1,
-      "timestamp": "2020-06-26T23:40:48.980396Z",
-      "lastWriteTimeUtc": "2020-06-26T23:40:37.5874425Z",
-      "queryTimestamp": "2020-06-26T23:40:49.659403Z",
+      "timestamp": "2020-06-26T23:43:24.821356Z",
+      "lastWriteTimeUtc": "2020-06-26T23:42:57.3468345Z",
+      "queryTimestamp": "2020-06-26T23:43:25.635344Z",
       "fileCount": 1,
       "fileSize": 3975975
     },
@@ -406,32 +421,17 @@
       "fileSize": 244285
     },
     {
-      "folderName": "GalaxySpace-1.12.2-2.0.13.jar",
-      "fingerprint": 2696188784,
-      "fileDateHash": 1358471491,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2696188784
-      ],
-      "status": 1,
-      "timestamp": "2020-06-26T22:38:04.067014Z",
-      "lastWriteTimeUtc": "2020-06-25T23:46:49.4910409Z",
-      "queryTimestamp": "2020-06-26T22:38:04.888728Z",
-      "fileCount": 1,
-      "fileSize": 7079275
-    },
-    {
       "folderName": "MicdoodleCore-1.12.2-4.0.2.272.jar",
       "fingerprint": 2134940802,
-      "fileDateHash": 2785436847,
+      "fileDateHash": 1892905803,
       "sectionID": 8,
       "individualFingerprints": [
         2134940802
       ],
       "status": 1,
-      "timestamp": "2020-06-26T23:40:49.097048Z",
-      "lastWriteTimeUtc": "2020-06-26T23:40:37.5077416Z",
-      "queryTimestamp": "2020-06-26T23:40:49.661668Z",
+      "timestamp": "2020-06-26T23:43:24.926732Z",
+      "lastWriteTimeUtc": "2020-06-26T23:42:57.2675168Z",
+      "queryTimestamp": "2020-06-26T23:43:25.636757Z",
       "fileCount": 1,
       "fileSize": 53300
     },
@@ -528,15 +528,15 @@
     {
       "folderName": "GalacticraftCore-1.12.2-4.0.2.272.jar",
       "fingerprint": 4210988658,
-      "fileDateHash": 3824648146,
+      "fileDateHash": 67678255,
       "sectionID": 8,
       "individualFingerprints": [
         4210988658
       ],
       "status": 1,
-      "timestamp": "2020-06-26T23:40:49.098957Z",
-      "lastWriteTimeUtc": "2020-06-26T23:40:37.543716Z",
-      "queryTimestamp": "2020-06-26T23:40:49.664223Z",
+      "timestamp": "2020-06-26T23:43:24.928312Z",
+      "lastWriteTimeUtc": "2020-06-26T23:42:57.3043175Z",
+      "queryTimestamp": "2020-06-26T23:43:25.639185Z",
       "fileCount": 1,
       "fileSize": 10609750
     },
@@ -556,21 +556,6 @@
       "fileSize": 96859
     },
     {
-      "folderName": "chiselsandbits-14.33.jar",
-      "fingerprint": 3211462819,
-      "fileDateHash": 1847607398,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3211462819
-      ],
-      "status": 1,
-      "timestamp": "2020-06-25T23:46:32.154028Z",
-      "lastWriteTimeUtc": "2020-06-25T23:42:56.950934Z",
-      "queryTimestamp": "2020-06-25T23:46:32.527257Z",
-      "fileCount": 1,
-      "fileSize": 737407
-    },
-    {
       "folderName": "appliedenergistics2-rv6-stable-7.jar",
       "fingerprint": 3112664858,
       "fileDateHash": 2518662627,
@@ -586,19 +571,19 @@
       "fileSize": 4062630
     },
     {
-      "folderName": "jei_1.12.2-4.15.0.291.jar",
-      "fingerprint": 3391578337,
-      "fileDateHash": 3803637039,
+      "folderName": "chiselsandbits-14.33.jar",
+      "fingerprint": 3211462819,
+      "fileDateHash": 1847607398,
       "sectionID": 8,
       "individualFingerprints": [
-        3391578337
+        3211462819
       ],
       "status": 1,
-      "timestamp": "2020-06-25T23:46:32.144517Z",
-      "lastWriteTimeUtc": "2020-06-25T23:42:06.9779717Z",
-      "queryTimestamp": "2020-06-25T23:46:32.527111Z",
+      "timestamp": "2020-06-25T23:46:32.154028Z",
+      "lastWriteTimeUtc": "2020-06-25T23:42:56.950934Z",
+      "queryTimestamp": "2020-06-25T23:46:32.527257Z",
       "fileCount": 1,
-      "fileSize": 651473
+      "fileSize": 737407
     },
     {
       "folderName": "AppleSkin-mc1.12-1.0.14.jar",
@@ -614,6 +599,21 @@
       "queryTimestamp": "2020-06-25T23:46:32.528391Z",
       "fileCount": 1,
       "fileSize": 33683
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.291.jar",
+      "fingerprint": 3391578337,
+      "fileDateHash": 3803637039,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3391578337
+      ],
+      "status": 1,
+      "timestamp": "2020-06-25T23:46:32.144517Z",
+      "lastWriteTimeUtc": "2020-06-25T23:42:06.9779717Z",
+      "queryTimestamp": "2020-06-25T23:46:32.527111Z",
+      "fileCount": 1,
+      "fileSize": 651473
     },
     {
       "folderName": "p455w0rdslib-1.12.2-2.3.161.jar",
@@ -706,21 +706,6 @@
       "fileSize": 6990968
     },
     {
-      "folderName": "CTM-MC1.12.2-1.0.2.31.jar",
-      "fingerprint": 1477774991,
-      "fileDateHash": 1638683024,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1477774991
-      ],
-      "status": 1,
-      "timestamp": "2020-06-25T23:46:32.119239Z",
-      "lastWriteTimeUtc": "2020-06-25T23:42:27.4038699Z",
-      "queryTimestamp": "2020-06-25T23:46:32.525383Z",
-      "fileCount": 1,
-      "fileSize": 199045
-    },
-    {
       "folderName": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
       "fingerprint": 3315557568,
       "fileDateHash": 3033091925,
@@ -734,6 +719,21 @@
       "queryTimestamp": "2020-06-25T23:46:32.525047Z",
       "fileCount": 1,
       "fileSize": 848187
+    },
+    {
+      "folderName": "CTM-MC1.12.2-1.0.2.31.jar",
+      "fingerprint": 1477774991,
+      "fileDateHash": 1638683024,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1477774991
+      ],
+      "status": 1,
+      "timestamp": "2020-06-25T23:46:32.119239Z",
+      "lastWriteTimeUtc": "2020-06-25T23:42:27.4038699Z",
+      "queryTimestamp": "2020-06-25T23:46:32.525383Z",
+      "fileCount": 1,
+      "fileSize": 199045
     },
     {
       "folderName": "GalacticraftTweaker-1.12.2-1.0.3.jar",
@@ -1296,7 +1296,7 @@
       "dateInstalled": "2020-06-25T23:43:10.106757Z",
       "dateUpdated": "2020-06-25T23:43:10.109735Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:10.109735Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1487,7 +1487,7 @@
       "dateInstalled": "2020-06-25T23:42:27.404067Z",
       "dateUpdated": "2020-06-25T23:42:27.405078Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:27.405078Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1635,7 +1635,7 @@
       "dateInstalled": "2020-06-25T23:42:28.086714Z",
       "dateUpdated": "2020-06-25T23:42:28.114996Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:28.114996Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1702,7 +1702,7 @@
       "dateInstalled": "2020-06-25T23:43:08.578297Z",
       "dateUpdated": "2020-06-25T23:43:08.581217Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:08.581217Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1937,7 +1937,7 @@
       "dateInstalled": "2020-06-25T23:42:33.569828Z",
       "dateUpdated": "2020-06-25T23:42:33.573529Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:33.573529Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2152,7 +2152,7 @@
       "dateInstalled": "2020-06-25T23:42:34.035677Z",
       "dateUpdated": "2020-06-25T23:42:34.036773Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:34.036773Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2373,7 +2373,7 @@
       "dateInstalled": "2020-06-25T23:42:37.212901Z",
       "dateUpdated": "2020-06-25T23:42:37.239438Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:37.239438Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2445,7 +2445,7 @@
       "dateInstalled": "2020-06-25T23:42:44.425779Z",
       "dateUpdated": "2020-06-25T23:42:44.444731Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:44.444731Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2512,7 +2512,7 @@
       "dateInstalled": "2020-06-25T23:43:25.067264Z",
       "dateUpdated": "2020-06-25T23:43:25.068168Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:25.068168Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2703,7 +2703,7 @@
       "dateInstalled": "2020-06-25T23:42:10.044889Z",
       "dateUpdated": "2020-06-25T23:42:10.072683Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:10.072683Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2775,7 +2775,7 @@
       "dateInstalled": "2020-06-25T23:42:44.707278Z",
       "dateUpdated": "2020-06-25T23:42:44.708284Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:44.708284Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2847,7 +2847,7 @@
       "dateInstalled": "2020-06-25T23:42:13.741465Z",
       "dateUpdated": "2020-06-25T23:42:13.742829Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:13.742829Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3007,7 +3007,7 @@
       "dateInstalled": "2020-06-25T23:43:25.557649Z",
       "dateUpdated": "2020-06-25T23:43:25.558756Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:25.558756Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3074,7 +3074,7 @@
       "dateInstalled": "2020-06-25T23:42:55.382804Z",
       "dateUpdated": "2020-06-25T23:42:55.38373Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:55.38373Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3146,7 +3146,7 @@
       "dateInstalled": "2020-06-25T23:42:35.291995Z",
       "dateUpdated": "2020-06-25T23:42:35.301494Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:35.301494Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3224,7 +3224,7 @@
       "dateInstalled": "2020-06-25T23:42:52.217207Z",
       "dateUpdated": "2020-06-25T23:42:52.218331Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:52.218331Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3311,7 +3311,7 @@
       "dateInstalled": "2020-06-25T23:42:56.951241Z",
       "dateUpdated": "2020-06-25T23:42:56.954123Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:56.954123Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3385,7 +3385,7 @@
       "dateInstalled": "2020-06-25T23:43:05.205327Z",
       "dateUpdated": "2020-06-25T23:43:05.209232Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:05.209232Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3465,7 +3465,79 @@
       "dateInstalled": "2020-06-25T23:43:08.981762Z",
       "dateUpdated": "2020-06-25T23:43:08.99318Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:08.99318Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2803400,
+        "displayName": "jei_1.12.2-4.15.0.291.jar",
+        "fileName": "jei_1.12.2-4.15.0.291.jar",
+        "fileDate": "2019-10-07T01:20:32.567Z",
+        "fileLength": 651473,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3894020924,
+            "type": 0
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2909248480,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3888864790,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4278251486,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3391578337,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei_1.12.2-4.15.0.291.jar"
+      },
+      "dateInstalled": "2020-06-25T23:42:06.978278Z",
+      "dateUpdated": "2020-06-25T23:42:06.980275Z",
+      "dateLastUpdateAttempted": "2020-06-25T23:42:06.980275Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3549,153 +3621,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 238770,
-      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
-      "installedFile": {
-        "id": 2946091,
-        "displayName": "GalaxySpace-1.12.2-2.0.13.jar",
-        "fileName": "GalaxySpace-1.12.2-2.0.13.jar",
-        "fileDate": "2020-05-02T01:52:28.167Z",
-        "fileLength": 7079275,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2946/91/GalaxySpace-1.12.2-2.0.13.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 303101,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2371178487,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4028691146,
-            "type": 0
-          },
-          {
-            "foldername": "galaxyspace",
-            "fingerprint": 2229473450,
-            "type": 0
-          },
-          {
-            "foldername": "methods.bin",
-            "fingerprint": 1782116068,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2696188784,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "GalaxySpace-1.12.2-2.0.13.jar"
-      },
-      "dateInstalled": "2020-06-25T23:46:49.51406Z",
-      "dateUpdated": "2020-06-25T23:46:49.545059Z",
-      "dateLastUpdateAttempted": "2020-06-25T23:46:49.545059Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 238222,
-      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
-      "installedFile": {
-        "id": 2803400,
-        "displayName": "jei_1.12.2-4.15.0.291.jar",
-        "fileName": "jei_1.12.2-4.15.0.291.jar",
-        "fileDate": "2019-10-07T01:20:32.567Z",
-        "fileLength": 651473,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3894020924,
-            "type": 0
-          },
-          {
-            "foldername": "mezz",
-            "fingerprint": 2909248480,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3888864790,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1488642189,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4278251486,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3391578337,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "jei_1.12.2-4.15.0.291.jar"
-      },
-      "dateInstalled": "2020-06-25T23:42:06.978278Z",
-      "dateUpdated": "2020-06-25T23:42:06.980275Z",
-      "dateLastUpdateAttempted": "2020-06-25T23:42:06.980275Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 222880,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
@@ -3764,7 +3689,7 @@
       "dateInstalled": "2020-06-25T23:43:05.753152Z",
       "dateUpdated": "2020-06-25T23:43:05.762606Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:05.762606Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3900,7 +3825,7 @@
       "dateInstalled": "2020-06-25T23:42:46.483367Z",
       "dateUpdated": "2020-06-25T23:42:46.484227Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:46.484227Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3967,7 +3892,7 @@
       "dateInstalled": "2020-06-25T23:43:05.463247Z",
       "dateUpdated": "2020-06-25T23:43:05.464697Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:05.464697Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4117,7 +4042,84 @@
       "dateInstalled": "2020-06-25T23:42:34.185473Z",
       "dateUpdated": "2020-06-25T23:42:34.187753Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:34.187753Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 239197,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2958236,
+        "displayName": "CraftTweaker2-1.12-4.1.20.574.jar",
+        "fileName": "CraftTweaker2-1.12-4.1.20.574.jar",
+        "fileDate": "2020-05-16T10:52:22.857Z",
+        "fileLength": 1431822,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2958/236/CraftTweaker2-1.12-4.1.20.574.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4144250242,
+            "type": 0
+          },
+          {
+            "foldername": "stanhebben",
+            "fingerprint": 2276587846,
+            "type": 0
+          },
+          {
+            "foldername": "crafttweaker",
+            "fingerprint": 3867607360,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2249719731,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2458517208,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3018331214,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3549635276,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.574.jar"
+      },
+      "dateInstalled": "2020-06-25T23:42:25.407908Z",
+      "dateUpdated": "2020-06-25T23:42:25.411984Z",
+      "dateLastUpdateAttempted": "2020-06-25T23:42:25.411984Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4197,84 +4199,7 @@
       "dateInstalled": "2020-06-25T23:42:29.286478Z",
       "dateUpdated": "2020-06-25T23:42:29.287598Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:29.287598Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 239197,
-      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
-      "installedFile": {
-        "id": 2958236,
-        "displayName": "CraftTweaker2-1.12-4.1.20.574.jar",
-        "fileName": "CraftTweaker2-1.12-4.1.20.574.jar",
-        "fileDate": "2020-05-16T10:52:22.857Z",
-        "fileLength": 1431822,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2958/236/CraftTweaker2-1.12-4.1.20.574.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4144250242,
-            "type": 0
-          },
-          {
-            "foldername": "stanhebben",
-            "fingerprint": 2276587846,
-            "type": 0
-          },
-          {
-            "foldername": "crafttweaker",
-            "fingerprint": 3867607360,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2249719731,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2458517208,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3018331214,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3549635276,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.574.jar"
-      },
-      "dateInstalled": "2020-06-25T23:42:25.407908Z",
-      "dateUpdated": "2020-06-25T23:42:25.411984Z",
-      "dateLastUpdateAttempted": "2020-06-25T23:42:25.411984Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
