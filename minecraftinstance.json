@@ -819,6 +819,74 @@
       "installedTargets": []
     },
     {
+      "addonID": 303101,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2953176,
+        "displayName": "AsmodeusCore-1.12.2-0.0.16.jar",
+        "fileName": "AsmodeusCore-1.12.2-0.0.16.jar",
+        "fileDate": "2020-05-10T12:40:11.217Z",
+        "fileLength": 3884848,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2953/176/AsmodeusCore-1.12.2-0.0.16.jar",
+        "isAlternate": false,
+        "alternateFileId": 2953213,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2217199043,
+            "type": 0
+          },
+          {
+            "foldername": "asmodeuscore",
+            "fingerprint": 2618536758,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3536221568,
+            "type": 0
+          },
+          {
+            "foldername": "methods.bin",
+            "fingerprint": 1782116068,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1557666240,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AsmodeusCore-1.12.2-0.0.16.jar"
+      },
+      "dateInstalled": "2020-06-25T23:46:48.634335Z",
+      "dateUpdated": "2020-06-25T23:46:48.652003Z",
+      "dateLastUpdateAttempted": "2020-06-25T23:46:48.652003Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 223094,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
@@ -2061,6 +2129,81 @@
       "dateInstalled": "2020-06-25T23:43:08.981762Z",
       "dateUpdated": "2020-06-25T23:43:08.99318Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:08.99318Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 238770,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2946091,
+        "displayName": "GalaxySpace-1.12.2-2.0.13.jar",
+        "fileName": "GalaxySpace-1.12.2-2.0.13.jar",
+        "fileDate": "2020-05-02T01:52:28.167Z",
+        "fileLength": 7079275,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2946/91/GalaxySpace-1.12.2-2.0.13.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 303101,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2371178487,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4028691146,
+            "type": 0
+          },
+          {
+            "foldername": "galaxyspace",
+            "fingerprint": 2229473450,
+            "type": 0
+          },
+          {
+            "foldername": "methods.bin",
+            "fingerprint": 1782116068,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2696188784,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "GalaxySpace-1.12.2-2.0.13.jar"
+      },
+      "dateInstalled": "2020-06-25T23:46:49.51406Z",
+      "dateUpdated": "2020-06-25T23:46:49.545059Z",
+      "dateLastUpdateAttempted": "2020-06-25T23:46:49.545059Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

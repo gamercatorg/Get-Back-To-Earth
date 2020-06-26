@@ -2,6 +2,7 @@
 
 # Instance Sync
 **/*.jar
+!non_curse_mods/*.jar
 !InstanceSync*.jar
 **/*.jar.disabled
 **/*.jar.meta
