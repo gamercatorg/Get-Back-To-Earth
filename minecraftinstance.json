@@ -912,6 +912,79 @@
       "installedTargets": null
     },
     {
+      "addonID": 228525,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2836960,
+        "displayName": "Bookshelf-1.12.2-2.3.590.jar",
+        "fileName": "Bookshelf-1.12.2-2.3.590.jar",
+        "fileDate": "2019-12-05T08:56:35.05Z",
+        "fileLength": 266636,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2836/960/Bookshelf-1.12.2-2.3.590.jar",
+        "isAlternate": false,
+        "alternateFileId": 2836961,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1511737712,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3835232449,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3538229140,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3561652192,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4087128376,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2546524333,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Bookshelf-1.12.2-2.3.590.jar"
+      },
+      "dateInstalled": "2020-06-26T22:47:20.681786Z",
+      "dateUpdated": "2020-06-26T22:47:20.685103Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:47:20.685103Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 244559,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
@@ -1037,24 +1110,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 272514,
-      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
-      "installedFile": null,
-      "dateInstalled": "2020-06-26T22:39:38.042752Z",
-      "dateUpdated": "2020-06-26T22:39:38.050996Z",
-      "dateLastUpdateAttempted": "2020-06-26T22:39:38.050996Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     },
     {
       "addonID": 304024,
@@ -4121,6 +4176,91 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 268655,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2951840,
+        "displayName": "GameStages-1.12.2-2.0.123.jar",
+        "fileName": "GameStages-1.12.2-2.0.123.jar",
+        "fileDate": "2020-05-08T21:33:10.297Z",
+        "fileLength": 54375,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2951/840/GameStages-1.12.2-2.0.123.jar",
+        "isAlternate": false,
+        "alternateFileId": 2951842,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 228525,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 791353961,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3634485962,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3400305829,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2808323163,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2075084030,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1586754881,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4227961345,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "GameStages-1.12.2-2.0.123.jar"
+      },
+      "dateInstalled": "2020-06-26T22:47:20.863489Z",
+      "dateUpdated": "2020-06-26T22:47:20.867737Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:47:20.867737Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     }
   ],
   "isMigrated": false,
