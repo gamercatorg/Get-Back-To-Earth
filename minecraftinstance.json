@@ -61,21 +61,6 @@
       "fileSize": 257302
     },
     {
-      "folderName": "modularmachinery-1.12.2-1.11.1.jar",
-      "fingerprint": 380978906,
-      "fileDateHash": 4076575815,
-      "sectionID": 8,
-      "individualFingerprints": [
-        380978906
-      ],
-      "status": 1,
-      "timestamp": "2020-06-26T22:38:04.256291Z",
-      "lastWriteTimeUtc": "2020-06-26T21:09:48.1935548Z",
-      "queryTimestamp": "2020-06-26T22:38:04.880992Z",
-      "fileCount": 1,
-      "fileSize": 684030
-    },
-    {
       "folderName": "Forgelin-1.8.4.jar",
       "fingerprint": 387064965,
       "fileDateHash": 1353059586,
@@ -361,21 +346,6 @@
       "fileSize": 704330
     },
     {
-      "folderName": "modularmagic-1.6.2.jar",
-      "fingerprint": 2501185880,
-      "fileDateHash": 3666588380,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2501185880
-      ],
-      "status": 1,
-      "timestamp": "2020-06-26T22:38:04.575424Z",
-      "lastWriteTimeUtc": "2020-06-26T21:09:55.9884479Z",
-      "queryTimestamp": "2020-06-26T22:38:04.888404Z",
-      "fileCount": 1,
-      "fileSize": 244285
-    },
-    {
       "folderName": "GalaxySpace-1.12.2-2.0.13.jar",
       "fingerprint": 2696188784,
       "fileDateHash": 1358471491,
@@ -599,21 +569,6 @@
       "queryTimestamp": "2020-06-26T22:38:04.893312Z",
       "fileCount": 1,
       "fileSize": 328793
-    },
-    {
-      "folderName": "Modular Diversity-1.10.jar",
-      "fingerprint": 1520535777,
-      "fileDateHash": 3400764926,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1520535777
-      ],
-      "status": 1,
-      "timestamp": "2020-06-26T22:38:04.236119Z",
-      "lastWriteTimeUtc": "2020-06-26T21:09:50.0070424Z",
-      "queryTimestamp": "2020-06-26T22:38:04.905001Z",
-      "fileCount": 1,
-      "fileSize": 400433
     },
     {
       "folderName": "foamfix-0.10.10-1.12.2.jar",
@@ -1278,134 +1233,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 324318,
-      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
-      "installedFile": {
-        "id": 2947301,
-        "displayName": "Modular Magic 1.6.2",
-        "fileName": "modularmagic-1.6.2.jar",
-        "fileDate": "2020-05-03T14:06:37.973Z",
-        "fileLength": 244285,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2947/301/modularmagic-1.6.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 225561,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 270790,
-            "type": 1,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 239197,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 223628,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 241721,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 306626,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 224791,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2174691314,
-            "type": 0
-          },
-          {
-            "foldername": "fr",
-            "fingerprint": 2106597831,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4184387862,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1287724531,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2501185880,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "modularmagic-1.6.2.jar"
-      },
-      "dateInstalled": "2020-06-26T21:09:55.988763Z",
-      "dateUpdated": "2020-06-26T21:09:55.990533Z",
-      "dateLastUpdateAttempted": "2020-06-26T21:09:55.990533Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 267602,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
@@ -1986,6 +1813,85 @@
       "installedTargets": null
     },
     {
+      "addonID": 296392,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2735851,
+        "displayName": "gamestagebooks-1.12.2-1.0.2-universal.jar",
+        "fileName": "gamestagebooks-1.12.2-1.0.2-universal.jar",
+        "fileDate": "2019-07-05T11:18:42.993Z",
+        "fileLength": 24078,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2735/851/gamestagebooks-1.12.2-1.0.2-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1987858067,
+            "type": 0
+          },
+          {
+            "foldername": "xt9",
+            "fingerprint": 3098433102,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 467813090,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2321177523,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1029518341,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2515688804,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "gamestagebooks-1.12.2-1.0.2-universal.jar"
+      },
+      "dateInstalled": "2020-06-26T22:47:21.843573Z",
+      "dateUpdated": "2020-06-26T22:47:21.84585Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:47:21.84585Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 230497,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
@@ -2174,9 +2080,9 @@
         "isServerPack": false,
         "FileNameOnDisk": "Modular Diversity-1.10.jar"
       },
-      "dateInstalled": "2020-06-26T21:09:50.007427Z",
-      "dateUpdated": "2020-06-26T21:09:50.010145Z",
-      "dateLastUpdateAttempted": "2020-06-26T21:09:50.010145Z",
+      "dateInstalled": "2020-06-26T22:51:50.19399Z",
+      "dateUpdated": "2020-06-26T22:51:50.196521Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:51:50.196521Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2186,7 +2092,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 248453,
@@ -2418,14 +2324,14 @@
       "addonID": 270790,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
-        "id": 2761302,
-        "displayName": "ModularMachinery-1.12.2-1.11.1.jar",
-        "fileName": "modularmachinery-1.12.2-1.11.1.jar",
-        "fileDate": "2019-08-13T19:54:24.95Z",
-        "fileLength": 684030,
+        "id": 2749555,
+        "displayName": "ModularMachinery-1.12.2-1.11.0.jar",
+        "fileName": "modularmachinery-1.12.2-1.11.0.jar",
+        "fileDate": "2019-07-27T18:29:06.54Z",
+        "fileLength": 683980,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2761/302/modularmachinery-1.12.2-1.11.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2749/555/modularmachinery-1.12.2-1.11.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2433,28 +2339,27 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2070826393,
+            "fingerprint": 2347787206,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2622814896,
+            "fingerprint": 2475140385,
             "type": 0
           },
           {
             "foldername": "hellfirepvp",
-            "fingerprint": 369600884,
+            "fingerprint": 1556574442,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1282533921,
+            "fingerprint": 1079736299,
             "type": 0
           }
         ],
-        "packageFingerprint": 380978906,
+        "packageFingerprint": 1134145631,
         "gameVersion": [
-          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -2466,12 +2371,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "modularmachinery-1.12.2-1.11.1.jar"
+        "FileNameOnDisk": "modularmachinery-1.12.2-1.11.0.jar"
       },
-      "dateInstalled": "2020-06-26T21:09:48.292308Z",
-      "dateUpdated": "2020-06-26T21:09:48.295521Z",
-      "dateLastUpdateAttempted": "2020-06-26T21:09:48.295521Z",
-      "status": 4,
+      "dateInstalled": "2020-06-26T22:51:41.571339Z",
+      "dateUpdated": "2020-06-26T22:51:41.574253Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:51:41.574253Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2480,7 +2385,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 32274,
