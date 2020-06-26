@@ -1235,10 +1235,120 @@
     {
       "addonID": 324318,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
-      "installedFile": null,
-      "dateInstalled": "2020-06-26T22:51:54.222799Z",
-      "dateUpdated": "2020-06-26T22:51:54.225556Z",
-      "dateLastUpdateAttempted": "2020-06-26T22:51:54.225556Z",
+      "installedFile": {
+        "id": 2947301,
+        "displayName": "Modular Magic 1.6.2",
+        "fileName": "modularmagic-1.6.2.jar",
+        "fileDate": "2020-05-03T14:06:37.973Z",
+        "fileLength": 244285,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2947/301/modularmagic-1.6.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 225561,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 270790,
+            "type": 1,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223628,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 241721,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306626,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 224791,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2174691314,
+            "type": 0
+          },
+          {
+            "foldername": "fr",
+            "fingerprint": 2106597831,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4184387862,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1287724531,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2501185880,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "modularmagic-1.6.2.jar"
+      },
+      "dateInstalled": "2020-06-26T22:53:07.898913Z",
+      "dateUpdated": "2020-06-26T22:53:07.902658Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:53:07.902658Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2392,9 +2502,9 @@
         "FileNameOnDisk": "modularmachinery-1.12.2-1.11.0.jar"
       },
       "dateInstalled": "2020-06-26T22:51:41.571339Z",
-      "dateUpdated": "2020-06-26T22:51:41.574253Z",
-      "dateLastUpdateAttempted": "2020-06-26T22:51:41.574253Z",
-      "status": 3,
+      "dateUpdated": "2020-06-26T23:00:28.344927Z",
+      "dateLastUpdateAttempted": "2020-06-26T23:00:28.344927Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
