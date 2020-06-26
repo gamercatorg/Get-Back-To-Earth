@@ -18,3 +18,5 @@ options.txt
 config.json
 natives/
 .DS_Store
+logs/
+crash-reports/
