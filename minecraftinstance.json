@@ -196,21 +196,6 @@
       "fileSize": 11144951
     },
     {
-      "folderName": "DankNull-1.12.2-1.7.91.jar",
-      "fingerprint": 3757837249,
-      "fileDateHash": 228674291,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3757837249
-      ],
-      "status": 1,
-      "timestamp": "2020-06-26T22:38:04.204419Z",
-      "lastWriteTimeUtc": "2020-06-26T22:37:13.8506372Z",
-      "queryTimestamp": "2020-06-26T22:38:04.884312Z",
-      "fileCount": 1,
-      "fileSize": 333253
-    },
-    {
       "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
       "fingerprint": 699442863,
       "fileDateHash": 404317164,
@@ -1054,6 +1039,24 @@
       "installedTargets": null
     },
     {
+      "addonID": 272514,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": null,
+      "dateInstalled": "2020-06-26T22:39:38.042752Z",
+      "dateUpdated": "2020-06-26T22:39:38.050996Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:39:38.050996Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 304024,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
@@ -1128,24 +1131,6 @@
       "dateInstalled": "2020-06-26T22:34:21.976478Z",
       "dateUpdated": "2020-06-26T22:34:21.977536Z",
       "dateLastUpdateAttempted": "2020-06-26T22:34:21.977536Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 272514,
-      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
-      "installedFile": null,
-      "dateInstalled": "2020-06-26T22:37:13.850919Z",
-      "dateUpdated": "2020-06-26T22:37:13.852299Z",
-      "dateLastUpdateAttempted": "2020-06-26T22:37:13.852299Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
