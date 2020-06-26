@@ -752,7 +752,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2020-06-26T22:38:05.203405Z",
+  "lastPreviousMatchUpdate": "2020-06-26T23:09:37.351798Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -2522,6 +2522,73 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 270790,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2749555,
+        "displayName": "ModularMachinery-1.12.2-1.11.0.jar",
+        "fileName": "modularmachinery-1.12.2-1.11.0.jar",
+        "fileDate": "2019-07-27T18:29:06.54Z",
+        "fileLength": 683980,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2749/555/modularmachinery-1.12.2-1.11.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2347787206,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2475140385,
+            "type": 0
+          },
+          {
+            "foldername": "hellfirepvp",
+            "fingerprint": 1556574442,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1079736299,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1134145631,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "modularmachinery-1.12.2-1.11.0.jar"
+      },
+      "dateInstalled": "2020-06-26T23:07:48.099297Z",
+      "dateUpdated": "2020-06-26T23:07:48.106193Z",
+      "dateLastUpdateAttempted": "2020-06-26T23:07:48.106193Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 32274,
