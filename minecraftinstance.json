@@ -2524,6 +2524,73 @@
       "installedTargets": null
     },
     {
+      "addonID": 270790,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2713714,
+        "displayName": "ModularMachinery-1.12.2-1.10.0.jar",
+        "fileName": "modularmachinery-1.12.2-1.10.0.jar",
+        "fileDate": "2019-05-20T18:30:54.99Z",
+        "fileLength": 654742,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2713/714/modularmachinery-1.12.2-1.10.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2723111113,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 833084559,
+            "type": 0
+          },
+          {
+            "foldername": "hellfirepvp",
+            "fingerprint": 2150249416,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1404694884,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3728747585,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "modularmachinery-1.12.2-1.10.0.jar"
+      },
+      "dateInstalled": "2020-06-26T23:34:09.939386Z",
+      "dateUpdated": "2020-06-26T23:34:09.946149Z",
+      "dateLastUpdateAttempted": "2020-06-26T23:34:09.946149Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 32274,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
