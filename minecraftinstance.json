@@ -461,6 +461,92 @@
   "installDate": "2020-06-25T23:31:34.537754Z",
   "installedAddons": [
     {
+      "addonID": 255232,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2830265,
+        "displayName": "p455w0rdslib-1.12.2-2.3.161.jar",
+        "fileName": "p455w0rdslib-1.12.2-2.3.161.jar",
+        "fileDate": "2019-11-21T03:52:55.193Z",
+        "fileLength": 328793,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2830/265/p455w0rdslib-1.12.2-2.3.161.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 270789,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 244651,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2056699777,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 675317848,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1992792617,
+            "type": 0
+          },
+          {
+            "foldername": "p455w0rdslib",
+            "fingerprint": 976873340,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1598791879,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4127400724,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "p455w0rdslib-1.12.2-2.3.161.jar"
+      },
+      "dateInstalled": "2020-06-26T22:34:21.712487Z",
+      "dateUpdated": "2020-06-26T22:34:21.715376Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:34:21.715376Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 268387,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
@@ -529,6 +615,219 @@
       "dateInstalled": "2020-06-26T21:36:50.870061Z",
       "dateUpdated": "2020-06-26T21:36:50.893176Z",
       "dateLastUpdateAttempted": "2020-06-26T21:36:50.893176Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 244559,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2830252,
+        "displayName": "WirelessCraftingTerminal-1.12.2-3.12.97.jar",
+        "fileName": "WirelessCraftingTerminal-1.12.2-3.12.97.jar",
+        "fileDate": "2019-11-21T03:02:57.3Z",
+        "fileLength": 242030,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2830/252/WirelessCraftingTerminal-1.12.2-3.12.97.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 304024,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 301356,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 60089,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 255232,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223794,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242064,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1273675666,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4270164847,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2049775328,
+            "type": 0
+          },
+          {
+            "foldername": "p455w0rd",
+            "fingerprint": 3304968000,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3276241846,
+            "type": 0
+          },
+          {
+            "foldername": "yalter",
+            "fingerprint": 1252905797,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2705844675,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "WirelessCraftingTerminal-1.12.2-3.12.97.jar"
+      },
+      "dateInstalled": "2020-06-26T22:34:22.192132Z",
+      "dateUpdated": "2020-06-26T22:34:22.20039Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:34:22.20039Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 304024,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2830114,
+        "displayName": "AE2WTLib-1.12.2-1.0.34.jar",
+        "fileName": "AE2WTLib-1.12.2-1.0.34.jar",
+        "fileDate": "2019-11-20T19:42:11.14Z",
+        "fileLength": 243622,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2830/114/AE2WTLib-1.12.2-1.0.34.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 223794,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 255232,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3562776133,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1047500678,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2012130142,
+            "type": 0
+          },
+          {
+            "foldername": "p455w0rd",
+            "fingerprint": 3597753708,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3585067167,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4147363441,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AE2WTLib-1.12.2-1.0.34.jar"
+      },
+      "dateInstalled": "2020-06-26T22:34:21.976478Z",
+      "dateUpdated": "2020-06-26T22:34:21.977536Z",
+      "dateLastUpdateAttempted": "2020-06-26T22:34:21.977536Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2082,6 +2381,87 @@
       "dateInstalled": "2020-06-25T23:42:13.741465Z",
       "dateUpdated": "2020-06-25T23:42:13.742829Z",
       "dateLastUpdateAttempted": "2020-06-25T23:42:13.742829Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 322861,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2899874,
+        "displayName": "PackagedExCrafting-1.12.2-1.0.1.2.jar",
+        "fileName": "PackagedExCrafting-1.12.2-1.0.1.2.jar",
+        "fileDate": "2020-03-13T10:41:38.323Z",
+        "fileLength": 186045,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2899/874/PackagedExCrafting-1.12.2-1.0.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 268387,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 308380,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223794,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1576971509,
+            "type": 0
+          },
+          {
+            "foldername": "thelm",
+            "fingerprint": 3958582030,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1129439323,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4157721733,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "PackagedExCrafting-1.12.2-1.0.1.2.jar"
+      },
+      "dateInstalled": "2020-06-26T21:36:59.470574Z",
+      "dateUpdated": "2020-06-26T21:36:59.477755Z",
+      "dateLastUpdateAttempted": "2020-06-26T21:36:59.477755Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
