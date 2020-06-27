@@ -16,7 +16,6 @@
             "x": -1,
             "y": 0,
             "z": 1,
-            "nbt": {"input":"0b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidoutputhatch","tank":{"Empty":""}},
             "elements": [
                 "modularmachinery:blockfluidoutputhatch@3"
             ]
@@ -52,7 +51,6 @@
             "x": 1,
             "y": 0,
             "z": 1,
-            "nbt": {"input":"1b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidinputhatch","tank":{"Empty":""}},
             "elements": [
                 "modularmachinery:blockfluidinputhatch@3"
             ]
