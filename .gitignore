@@ -10,6 +10,8 @@
 # Optional: Generic Modpack Ignores
 **/*.log
 /.mixin.out
+usercache.json
+usernamecache.json
 /saves
 /downloads
 /resourcepacks

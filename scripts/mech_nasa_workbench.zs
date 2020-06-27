@@ -12,3 +12,7 @@ t1_recipe.addItemInput(<galacticraftcore:nose_cone>, 1);
 t1_recipe.addItemInput(<galacticraftcore:rocket_fins>, 4);
 
 t1_recipe.addItemInput(<galacticraftcore:engine>, 1);
+
+t1_recipe.addItemOutput(<galacticraftcore:rocket_t1>);
+
+t1_recipe.build();
