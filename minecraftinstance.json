@@ -43,7 +43,7 @@
   "guid": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
   "gameTypeID": 432,
   "installPath": "/Users/leuyenp/Twitch/Minecraft/Instances/To The Moon!/",
-  "name": "To The Moon!",
+  "name": "Get Back To Earth",
   "cachedScans": [
     {
       "folderName": "thermalsolars-1.12.2-1.9.5.jar",
@@ -1282,6 +1282,73 @@
       "dateUpdated": "2020-06-25T23:43:10.109735Z",
       "dateLastUpdateAttempted": "2020-06-25T23:43:10.109735Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 221418,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2543507,
+        "displayName": "PerfectSpawn-MC1.12.2-2.1.jar",
+        "fileName": "PerfectSpawn-MC1.12.2-2.1.jar",
+        "fileDate": "2018-03-21T16:49:36.47Z",
+        "fileLength": 31082,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2543/507/PerfectSpawn-MC1.12.2-2.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2497539340,
+            "type": 0
+          },
+          {
+            "foldername": "lumien",
+            "fingerprint": 2989712580,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3152674203,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1582220281,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2006-12-11T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "PerfectSpawn-MC1.12.2-2.1.jar"
+      },
+      "dateInstalled": "2020-06-27T18:19:51.316067Z",
+      "dateUpdated": "2020-06-27T18:19:51.327232Z",
+      "dateLastUpdateAttempted": "2020-06-27T18:19:51.327232Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
