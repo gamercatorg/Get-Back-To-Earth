@@ -6,17 +6,18 @@
         {
             "x": -1,
             "y": 0,
-            "z": 0,
+            "z": 1,
             "elements": [
-                "modularmachinery:blockcasing@4"
+                "modularmachinery:blockoutputbus@0"
             ]
         },
         {
             "x": -1,
             "y": 0,
-            "z": 1,
+            "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
-                "modularmachinery:blockfluidoutputhatch@3"
+                "modularmachinery:blockcasing@4"
             ]
         },
         {
@@ -24,21 +25,14 @@
             "y": 0,
             "z": 1,
             "elements": [
-                "galacticraftcore:refinery@2"
-            ]
-        },
-        {
-            "x": 1,
-            "y": 0,
-            "z": 0,
-            "elements": [
-                "modularmachinery:blockcasing@4"
+                "galacticraftcore:crude_oil_still@0"
             ]
         },
         {
             "x": -1,
             "y": 0,
             "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -46,15 +40,17 @@
         {
             "x": 1,
             "y": 0,
-            "z": 1,
+            "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
-                "modularmachinery:blockfluidinputhatch@3"
+                "modularmachinery:blockcasing@4"
             ]
         },
         {
             "x": 0,
             "y": 0,
             "z": 2,
+            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyinputhatch","energy":"0L"},
             "elements": [
                 "modularmachinery:blockenergyinputhatch@3"
             ]
@@ -62,7 +58,16 @@
         {
             "x": 1,
             "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
             "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -71,6 +76,7 @@
             "x": 1,
             "y": -1,
             "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -79,6 +85,7 @@
             "x": 0,
             "y": -1,
             "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -87,6 +94,7 @@
             "x": -1,
             "y": 1,
             "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -95,22 +103,25 @@
             "x": -1,
             "y": -1,
             "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@5"
-            ]
-        },
-        {
-            "x": 0,
-            "y": 1,
-            "z": 0,
-            "elements": [
-                "modularmachinery:blockcasing@4"
             ]
         },
         {
             "x": -1,
             "y": 1,
             "z": 1,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -119,38 +130,25 @@
             "x": 0,
             "y": 1,
             "z": 1,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@1"
             ]
         },
         {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
             "x": 1,
             "y": 1,
             "z": 0,
-            "elements": [
-                "modularmachinery:blockcasing@4"
-            ]
-        },
-        {
-            "x": -1,
-            "y": 1,
-            "z": 2,
-            "elements": [
-                "modularmachinery:blockcasing@4"
-            ]
-        },
-        {
-            "x": 0,
-            "y": 1,
-            "z": 2,
-            "elements": [
-                "modularmachinery:blockcasing@4"
-            ]
-        },
-        {
-            "x": 1,
-            "y": 1,
-            "z": 1,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -159,6 +157,7 @@
             "x": -1,
             "y": -1,
             "z": 1,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -166,7 +165,17 @@
         {
             "x": 1,
             "y": 1,
+            "z": 1,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
             "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@4"
             ]
@@ -175,6 +184,7 @@
             "x": 0,
             "y": -1,
             "z": 1,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -183,6 +193,25 @@
             "x": -1,
             "y": -1,
             "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -191,14 +220,7 @@
             "x": 0,
             "y": -1,
             "z": 2,
-            "elements": [
-                "modularmachinery:blockcasing@5"
-            ]
-        },
-        {
-            "x": 1,
-            "y": -1,
-            "z": 1,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
@@ -207,6 +229,7 @@
             "x": 1,
             "y": -1,
             "z": 2,
+            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@5"
             ]
