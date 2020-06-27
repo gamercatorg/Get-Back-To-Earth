@@ -3,7 +3,7 @@ import crafttweaker.item.IIngredient;
 import mods.jei.JEI;
 import mods.modularmachinery.RecipeBuilder;
 
-recipes.removeByMod("galacticraftcore");
+
 
 var fuel_recipe = RecipeBuilder.newBuilder("rocketFuel", "oil_refinery", 120);
 
