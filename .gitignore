@@ -20,3 +20,4 @@ natives/
 .DS_Store
 logs/
 crash-reports/
+journeymap/
