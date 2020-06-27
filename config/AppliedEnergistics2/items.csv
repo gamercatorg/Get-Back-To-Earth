@@ -643,6 +643,52 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+avaritia:resource:0, Diamond Lattice
+avaritia:resource:1, Crystal Matrix Ingot
+avaritia:resource:2, Pile of Neutrons
+avaritia:resource:3, Neutronium Nugget
+avaritia:resource:4, Neutronium Ingot
+avaritia:resource:5, Infinity Catalyst
+avaritia:resource:6, Infinity Ingot
+avaritia:resource:7, Record Fragment
+avaritia:singularity:0, Iron Singularity
+avaritia:singularity:1, Golden Singularity
+avaritia:singularity:2, Lapis Singularity
+avaritia:singularity:3, Redstone Singularity
+avaritia:singularity:4, Nether Quartz Singularity
+avaritia:singularity:5, Copper Singularity
+avaritia:singularity:6, Tin Singularity
+avaritia:singularity:7, Lead Singularity
+avaritia:singularity:8, Silver Singularity
+avaritia:singularity:9, Nickel Singularity
+avaritia:singularity:10, Diamond Singularity
+avaritia:singularity:11, Emerald Singularity
+avaritia:singularity:12, Fluxed Singularity
+avaritia:singularity:13, Platinum Singularity
+avaritia:singularity:14, Iridium Singularity
+avaritia:infinity_sword, Sword of the Cosmos
+avaritia:infinity_bow, Longbow of the Heavens
+avaritia:infinity_pickaxe, World Breaker
+avaritia:infinity_shovel, Planet Eater
+avaritia:infinity_axe, Nature's Ruin
+avaritia:infinity_hoe, Hoe of the Green Earth
+avaritia:infinity_helmet, Infinity Helmet
+avaritia:infinity_chestplate, Infinity Breastplate
+avaritia:infinity_pants, Infinity Leggings
+avaritia:infinity_boots, Infinity Boots
+avaritia:skullfire_sword, Skullfire Sword
+avaritia:endest_pearl, Endest Pearl
+avaritia:ultimate_stew, Ultimate Stew
+avaritia:cosmic_meatballs, Cosmic Meatballs
+avaritia:matter_cluster, Matter Cluster
+avaritia:compressed_crafting_table, Compressed Crafting Table
+avaritia:double_compressed_crafting_table, Double Compressed Crafting Table
+avaritia:extreme_crafting_table, Extreme Crafting Table
+avaritia:block_resource:0, Neutronium Block
+avaritia:block_resource:1, Infinity Block
+avaritia:block_resource:2, Crystal Matrix
+avaritia:neutron_collector, Neutron Collector
+avaritia:neutronium_compressor, Neutronium Compressor
 moreplanets:space_warp_pad, Space Warp Pad
 moreplanets:rocket_crusher, Rocket Crusher
 moreplanets:dungeon_glowstone, Dungeon Glowstone
@@ -2111,6 +2157,11 @@ thermaldynamics:cover:0, Brown Concrete Powder Cover
 thermaldynamics:cover:0, Green Concrete Powder Cover
 thermaldynamics:cover:0, Red Concrete Powder Cover
 thermaldynamics:cover:0, Black Concrete Powder Cover
+thermaldynamics:cover:0, Compressed Crafting Table Cover
+thermaldynamics:cover:0, Double Compressed Crafting Table Cover
+thermaldynamics:cover:0, Neutronium Block Cover
+thermaldynamics:cover:0, Infinity Block Cover
+thermaldynamics:cover:0, Crystal Matrix Cover
 thermaldynamics:cover:0, Dungeon Glowstone Cover
 thermaldynamics:cover:0, Tinted Glass Cover
 thermaldynamics:cover:0, Orange Tinted Glass Cover
@@ -5120,6 +5171,11 @@ appliedenergistics2:facade:0, Cable Facade - Brown Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Green Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Red Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Black Concrete Powder
+appliedenergistics2:facade:0, Cable Facade - Compressed Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Double Compressed Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Neutronium Block
+appliedenergistics2:facade:0, Cable Facade - Infinity Block
+appliedenergistics2:facade:0, Cable Facade - Crystal Matrix
 appliedenergistics2:facade:0, Cable Facade - Dungeon Glowstone
 appliedenergistics2:facade:0, Cable Facade - Polished Tin Decoration Block
 appliedenergistics2:facade:0, Cable Facade - Polished Aluminum Decoration Block
@@ -8123,24 +8179,6 @@ extendedcrafting:singularity:64, Ardite Singularity
 extendedcrafting:singularity:65, Cobalt Singularity
 extendedcrafting:singularity:66, Manyullyn Singularity
 extendedcrafting:singularity_ultimate, The Ultimate Singularity
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -8261,9 +8299,48 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 modulardiversity:blockbiomedetector, Biome Detector
 modulardiversity:blockdaylightdetector, Time Detector
 modulardiversity:blockweatherdetector, Weather Detector
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -8314,27 +8391,6 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 thermalsolars:itemtitaniumglassplate, Titanium Glass Plate
 thermalsolars:itemtitaniumdust, Titanium Dust
 thermalsolars:itemtitaniumsolarcell, Titanium Solar Cell
@@ -8397,6 +8453,7 @@ thermalsolars:blockenderblock, Ender Block
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
+avaritiatweaks:enhancement_crystal, Enhancement Crystal
 base:wrench, Wrench
 chiselsandbits:chisel_stone, Stone Chisel
 chiselsandbits:chisel_iron, Iron Chisel
@@ -8604,6 +8661,11 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brown Concrete Powder
 chiselsandbits:block_bit:0, Chiseled Bit - Green Concrete Powder
 chiselsandbits:block_bit:0, Chiseled Bit - Red Concrete Powder
 chiselsandbits:block_bit:0, Chiseled Bit - Black Concrete Powder
+chiselsandbits:block_bit:0, Chiseled Bit - Compressed Crafting Table
+chiselsandbits:block_bit:0, Chiseled Bit - Double Compressed Crafting Table
+chiselsandbits:block_bit:0, Chiseled Bit - Neutronium Block
+chiselsandbits:block_bit:0, Chiseled Bit - Infinity Block
+chiselsandbits:block_bit:0, Chiseled Bit - Crystal Matrix
 chiselsandbits:block_bit:0, Chiseled Bit - Dungeon Glowstone
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Tin Decoration Block
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Aluminum Decoration Block

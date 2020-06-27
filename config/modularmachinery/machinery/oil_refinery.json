@@ -1,7 +1,7 @@
 {
     "registryname": "oil_refinery",
     "localizedname": "Oil Refinery",
-    "color" : "#09090a",
+    "color" : "09090a",
     "parts": [
         {
             "x": -1,
@@ -53,7 +53,9 @@
             "y": 0,
             "z": 1,
             "nbt": {"input":"1b","size":"3","casingColor":"16730368","id":"minecraft:tilefluidinputhatch","tank":{"Empty":""}},
-            "elements": "casings_fluid"
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@3"
+            ]
         },
         {
             "x": 0,
