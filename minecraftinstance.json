@@ -4325,6 +4325,74 @@
       "installedTargets": null
     },
     {
+      "addonID": 243707,
+      "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
+      "installedFile": {
+        "id": 2981779,
+        "displayName": "Corail Tombstone 3.7.5 for 1.12.2",
+        "fileName": "tombstone-3.7.5-1.12.2.jar",
+        "fileDate": "2020-06-16T20:03:50.537Z",
+        "fileLength": 1019968,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2981/779/tombstone-3.7.5-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 920826809,
+            "type": 0
+          },
+          {
+            "foldername": "ovh",
+            "fingerprint": 1027476261,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1998787520,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3697416946,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2870371147,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "tombstone-3.7.5-1.12.2.jar"
+      },
+      "dateInstalled": "2020-06-28T00:11:20.20181Z",
+      "dateUpdated": "2020-06-28T00:11:20.206975Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:11:20.206975Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 261990,
       "gameInstanceID": "04ff744f-0080-46fa-a05a-8215dd2eadb7",
       "installedFile": {
@@ -4826,7 +4894,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 268387,
