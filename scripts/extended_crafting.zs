@@ -20,6 +20,7 @@ TableCrafting.addShaped(<avaritia:infinity_pickaxe>, [
 	[null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null]
 ]);
 
-CompressionCrafting.addRecipe("chicken_spawn_egg", <minecraft:feather>, <minecraft:spawn_egg>.withTag({EntityTag: {id: "minecraft:chicken"}}), 2500, <minecraft:chicken>, 100000);
+CompressionCrafting.addRecipe(<minecraft:feather>, <minecraft:spawn_egg>.withTag({EntityTag: {id: "minecraft:chicken"}}), 2500, <minecraft:chicken>, 100000);
 
-CompressionCrafting.addRecipe("blaze_spawn_egg", <minecraft:blaze_rod>, <minecraft:spawn_egg>.withTag({EntityTag: {id: "minecraft:blaze"}}), 2500, <avaritia:resource>, 100000);
+
+CompressionCrafting.addRecipe(<minecraft:blaze_rod>, <minecraft:spawn_egg>.withTag({EntityTag: {id: "minecraft:blaze"}}), 2500, <avaritia:resource>, 100000);
