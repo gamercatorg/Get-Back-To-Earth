@@ -4,4 +4,4 @@ import mods.jei.JEI;
 
 JEI.removeAndHide(<galacticraftcore:refinery>);
 
-JEI.removeAndHide(<galacticraftcore:rocket_workbench>);
+// JEI.removeAndHide(<galacticraftcore:rocket_workbench>);
