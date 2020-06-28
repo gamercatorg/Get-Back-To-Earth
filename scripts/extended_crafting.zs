@@ -7,6 +7,7 @@ import mods.extendedcrafting.CompressionCrafting;
 import mods.extendedcrafting.EnderCrafting;
 
 recipes.remove(<avaritia:infinity_pickaxe>);
+JEI.removeAndHide(<avaritia:extreme_crafting_table>);
 
 TableCrafting.addShaped(<avaritia:infinity_pickaxe>, [
 	[null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null], 
