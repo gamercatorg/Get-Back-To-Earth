@@ -9105,6 +9105,22 @@ storagedrawers:shroud_key, Concealment Key
 storagedrawers:personal_key, Personal Key
 storagedrawers:quantify_key, Quantify Key
 storagedrawers:tape, Packing Tape
+thermalsolars:blocksolarpanel1, Tier 1 Solar Panel
+thermalsolars:blocksolarpanel2, Tier 2 Solar Panel
+thermalsolars:blocksolarpanel3, Tier 3 Solar Panel
+thermalsolars:blocksolarpanel4, Tier 4 Solar Panel
+thermalsolars:blocksolarpanel5, Tier 5 Solar Panel
+thermalsolars:blocksolarpanel6, Tier 6 Solar Panel
+thermalsolars:blocksolarpanel101, Tier 1 Lunar Solar Panel
+thermalsolars:blocksolarpanel102, Tier 2 Lunar Solar Panel
+thermalsolars:blocksolarpanel103, Tier 3 Lunar Solar Panel
+thermalsolars:blocktitaniumore, Titanium Ore
+thermalsolars:blocklunarorenether, Lunar Ore
+thermalsolars:blockenderoreend, Ender Ore
+thermalsolars:blockenderpanel, Ender Modular Solar Panel
+thermalsolars:blocktitaniumblock, Titanium Block
+thermalsolars:blocklunarblock, Lunar Block
+thermalsolars:blockenderblock, Ender Block
 thermalsolars:itemtitaniumglassplate, Titanium Glass Plate
 thermalsolars:itemtitaniumdust, Titanium Dust
 thermalsolars:itemtitaniumsolarcell, Titanium Solar Cell
@@ -9148,22 +9164,6 @@ thermalsolars:itemenderhammer, Ender Hammer
 thermalsolars:itemtitaniumexcavator, Titanium Excavator
 thermalsolars:itemlunarexcavator, Lunar Excavator
 thermalsolars:itemenderexcavator, Ender Excavator
-thermalsolars:blocksolarpanel1, Tier 1 Solar Panel
-thermalsolars:blocksolarpanel2, Tier 2 Solar Panel
-thermalsolars:blocksolarpanel3, Tier 3 Solar Panel
-thermalsolars:blocksolarpanel4, Tier 4 Solar Panel
-thermalsolars:blocksolarpanel5, Tier 5 Solar Panel
-thermalsolars:blocksolarpanel6, Tier 6 Solar Panel
-thermalsolars:blocksolarpanel101, Tier 1 Lunar Solar Panel
-thermalsolars:blocksolarpanel102, Tier 2 Lunar Solar Panel
-thermalsolars:blocksolarpanel103, Tier 3 Lunar Solar Panel
-thermalsolars:blocktitaniumore, Titanium Ore
-thermalsolars:blocklunarorenether, Lunar Ore
-thermalsolars:blockenderoreend, Ender Ore
-thermalsolars:blockenderpanel, Ender Modular Solar Panel
-thermalsolars:blocktitaniumblock, Titanium Block
-thermalsolars:blocklunarblock, Lunar Block
-thermalsolars:blockenderblock, Ender Block
 tombstone:decorative_grave_simple, Simple Grave
 tombstone:decorative_grave_normal, Normal Grave
 tombstone:decorative_grave_cross, Cross Grave
