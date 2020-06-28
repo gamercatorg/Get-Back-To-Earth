@@ -15,9 +15,7 @@ t1_recipe.addItemInput(<galacticraftcore:engine>);
 
 t1_recipe.addItemOutput(<galacticraftcore:rocket_t1>);
 
-fuel_recipe.addEnergyPerTickInput(120);
-
-fuel_recipe.addFuelItemInout(1440);
+// fuel_recipe.addEnergyPerTickInput(120);
 
 t1_recipe.build();
 
@@ -37,8 +35,6 @@ t2_recipe.addItemInput(<galacticraftcore:engine:1> * 2);
 
 t2_recipe.addItemOutput(<galacticraftplanets:rocket_t2>);
 
-fuel_recipe.addEnergyPerTickInput(120);
-
-fuel_recipe.addFuelItemInout(1440);
+// fuel_recipe.addEnergyPerTickInput(120);
 
 t2_recipe.build();
