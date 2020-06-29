@@ -1852,6 +1852,24 @@ packagedexcrafting:ultimate_crafter, Ultimate Package Crafter
 packagedexcrafting:ender_crafter, Ender Package Crafter
 packagedexcrafting:combination_crafter, Combination Package Crafter
 packagedexcrafting:marked_pedestal, Marked Pedestal
+sgcraft:stargatering:0, Stargate Ring Block
+sgcraft:stargatering:1, Stargate Chevron Block
+sgcraft:stargatebase, Stargate Base
+sgcraft:stargatecontroller, Stargate Controller
+sgcraft:naquadahblock, Naquadah Alloy Block
+sgcraft:naquadahore, Naquadah Ore
+sgcraft:sgpowerunit, SG Power Unit
+sgcraft:zpm_console, ZPM Console
+sgcraft:naquadah, Naquadah
+sgcraft:naquadahingot, Naquadah Alloy Ingot
+sgcraft:sgcorecrystal, Stargate Core Crystal
+sgcraft:sgcontrollercrystal, Stargate Controller Crystal
+sgcraft:sgchevronupgrade, Stargate Chevron Upgrade
+sgcraft:sgirisupgrade, Stargate Iris Upgrade
+sgcraft:sgirisblade, Stargate Iris Blade
+sgcraft:zpm, Zero Point Module
+sgcraft:tollan_phase_shift_device, Tollan Phase Shift Device
+sgcraft:pegasus_upgrade, Pegasus Type Upgrade Crystal
 thermalexpansion:machine:0, Redstone Furnace (Basic)
 thermalexpansion:machine:1, Pulverizer (Basic)
 thermalexpansion:machine:2, Sawmill (Basic)
@@ -2659,6 +2677,8 @@ thermaldynamics:cover:0, Lime Jelly Cover
 thermaldynamics:cover:0, Orange Jelly Cover
 thermaldynamics:cover:0, Green Jelly Cover
 thermaldynamics:cover:0, Lemon Jelly Cover
+thermaldynamics:cover:0, Naquadah Alloy Block Cover
+thermaldynamics:cover:0, Naquadah Ore Cover
 chisel:blockaluminum:0, Block of Aluminum
 chisel:blockaluminum:1, Block of Aluminum
 chisel:blockaluminum:2, Block of Aluminum
@@ -5535,6 +5555,8 @@ appliedenergistics2:facade:0, Cable Facade - Pink Candy Cane
 appliedenergistics2:facade:0, Cable Facade - Yellow Candy Cane
 appliedenergistics2:facade:0, Cable Facade - Purple Candy Cane
 appliedenergistics2:facade:0, Cable Facade - Rainbow Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Naquadah Alloy Block
+appliedenergistics2:facade:0, Cable Facade - Naquadah Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -8361,24 +8383,6 @@ extendedcrafting:singularity:64, Ardite Singularity
 extendedcrafting:singularity:65, Cobalt Singularity
 extendedcrafting:singularity:66, Manyullyn Singularity
 extendedcrafting:singularity_ultimate, The Ultimate Singularity
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -8499,6 +8503,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 mysticalagriculture:storage:0, §eBlock of Inferium Essence
 mysticalagriculture:storage:1, §aBlock of Prudentium Essence
 mysticalagriculture:storage:2, §6Block of Intermedium Essence
@@ -9034,6 +9056,27 @@ mysticalcreations:witch_crop, tile.witch_crop.name
 mysticalcreations:witch_essence, item.witch_essence.name
 mysticalcreations:witch_seeds, item.witch_seeds.name
 mysticalcreations:witch_chunk, item.witch_chunk.name
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -9084,27 +9127,6 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 thermalsolars:blocksolarpanel1, Tier 1 Solar Panel
 thermalsolars:blocksolarpanel2, Tier 2 Solar Panel
 thermalsolars:blocksolarpanel3, Tier 3 Solar Panel
@@ -9591,6 +9613,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Pink Candy Cane Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Yellow Candy Cane Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Purple Candy Cane Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Rainbow Candy Cane Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Naquadah Alloy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Naquadah Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Aluminum
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Aluminum
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Aluminum
