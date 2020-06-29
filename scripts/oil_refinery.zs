@@ -11,7 +11,7 @@ fuel_recipe.addItemInput(<galacticraftcore:oil_canister_partial:1>);
 
 fuel_recipe.addItemOutput(<galacticraftcore:bucket_fuel>);
 
-// fuel_recipe.addEnergyPerTickInput(120);
+fuel_recipe.addEnergyPerTickInput(120);
 
 fuel_recipe.build();
 
@@ -21,7 +21,7 @@ fuel_recipe_bucket.addItemInput(<forge:bucketfilled>.withTag({FluidName: "oil", 
 
 fuel_recipe_bucket.addItemOutput(<galacticraftcore:bucket_fuel>);
 
-// fuel_recipe.addEnergyPerTickInput(120);
+fuel_recipe_bucket.addEnergyPerTickInput(120);
 
 fuel_recipe_bucket.build();
 

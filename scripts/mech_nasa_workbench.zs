@@ -15,9 +15,15 @@ t1_recipe.addItemInput(<galacticraftcore:engine>);
 
 t1_recipe.addItemOutput(<galacticraftcore:rocket_t1>);
 
-// fuel_recipe.addEnergyPerTickInput(120);
+t1_recipe.addEnergyPerTickInput(120);
 
 t1_recipe.build();
+
+var t1_recipe_storaget1 = RecipeBuilder.newBuilder("rocketT1ST1", "mechanical_nasa_workbench", 120);
+
+t1_recipe.addItemInput(<minecraft:chest>);
+
+t
 
 
 var t2_recipe = RecipeBuilder.newBuilder("rocketT2", "mechanical_nasa_workbench", 120);
@@ -35,6 +41,6 @@ t2_recipe.addItemInput(<galacticraftcore:engine:1> * 2);
 
 t2_recipe.addItemOutput(<galacticraftplanets:rocket_t2>);
 
-// fuel_recipe.addEnergyPerTickInput(120);
+t2_recipe.addEnergyPerTickInput(120);
 
 t2_recipe.build();
