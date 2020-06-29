@@ -1838,6 +1838,157 @@ moreplanets:candy_cane:4, Pink Candy Cane
 moreplanets:candy_cane:5, Yellow Candy Cane
 moreplanets:candy_cane:6, Purple Candy Cane
 moreplanets:candy_cane:7, Rainbow Candy Cane
+opencomputers:adapter:0, Adapter
+opencomputers:assembler:0, Electronics Assembler
+opencomputers:cable:11250603, Cable
+opencomputers:capacitor:0, Capacitor
+opencomputers:case1:0, Computer Case (Tier 1)
+opencomputers:case3:0, Computer Case (Tier 3)
+opencomputers:case2:0, Computer Case (Tier 2)
+opencomputers:chameliumblock:0, Block of Chamelium
+opencomputers:charger:0, Charger
+opencomputers:disassembler:0, Disassembler
+opencomputers:diskdrive:0, Disk Drive
+opencomputers:geolyzer:0, Geolyzer
+opencomputers:hologram1:0, Hologram Projector (Tier 1)
+opencomputers:hologram2:0, Hologram Projector (Tier 2)
+opencomputers:keyboard:0, Keyboard
+opencomputers:motionsensor:0, Motion Sensor
+opencomputers:powerconverter:0, Power Converter
+opencomputers:powerdistributor:0, Power Distributor
+opencomputers:printer:0, 3D Printer
+opencomputers:raid:0, Raid
+opencomputers:redstone:0, Redstone I/O
+opencomputers:relay:0, Relay
+opencomputers:screen1:0, Screen (Tier 1)
+opencomputers:screen3:0, Screen (Tier 3)
+opencomputers:screen2:0, Screen (Tier 2)
+opencomputers:rack:0, Rack
+opencomputers:waypoint:0, Waypoint
+opencomputers:casecreative:0, Computer Case (Creative)
+opencomputers:microcontroller:0, Microcontroller
+opencomputers:print:0, 3D Print
+opencomputers:robotafterimage:0, Robot
+opencomputers:robot:0, robot.name
+opencomputers:endstone:0, End Stone
+opencomputers:netsplitter:0, Net Splitter
+opencomputers:transposer:0, Transposer
+opencomputers:carpetedcapacitor:0, Carpeted Capacitor
+opencomputers:material:1, Grog
+opencomputers:material:10, Arithmetic Logic Unit (ALU)
+opencomputers:material:15, Arrow Keys
+opencomputers:material:14, Button Group
+opencomputers:material:5, Card Base
+opencomputers:material:28, Chamelium
+opencomputers:material:3, Circuit Board
+opencomputers:material:11, Control Unit (CU)
+opencomputers:material:0, Cutting Wire
+opencomputers:material:29, Diamond Chip
+opencomputers:material:12, Disk Platter
+opencomputers:material:23, Drone Case (Tier 1)
+opencomputers:material:24, Drone Case (Tier 2)
+opencomputers:material:25, Drone Case (Creative)
+opencomputers:material:27, Ink Cartridge
+opencomputers:material:26, Ink Cartridge (Empty)
+opencomputers:material:13, Interweb
+opencomputers:material:7, Microchip (Tier 1)
+opencomputers:material:8, Microchip (Tier 2)
+opencomputers:material:9, Microchip (Tier 3)
+opencomputers:material:20, Microcontroller Case (Tier 1)
+opencomputers:material:21, Microcontroller Case (Tier 2)
+opencomputers:material:22, Microcontroller Case (Creative)
+opencomputers:material:16, Numeric Keypad
+opencomputers:material:4, Printed Circuit Board (PCB)
+opencomputers:material:2, Raw Circuit Board
+opencomputers:material:17, Tablet Case (Tier 1)
+opencomputers:material:18, Tablet Case (Tier 2)
+opencomputers:material:19, Tablet Case (Creative)
+opencomputers:material:6, Transistor
+opencomputers:tool:0, Analyzer
+opencomputers:tool:1, Network Debugger
+opencomputers:tool:4, OpenComputers Manual
+opencomputers:tool:5, Nanomachines
+opencomputers:tool:2, Remote Terminal
+opencomputers:tool:3, Texture Picker
+opencomputers:wrench, Scrench
+opencomputers:hoverboots, Hover Boots
+opencomputers:component:16, Accelerated Processing Unit (APU) (Tier 2)
+opencomputers:component:17, Accelerated Processing Unit (APU) (Tier 3)
+opencomputers:component:18, Accelerated Processing Unit (APU) (Creative)
+opencomputers:component:3, Component Bus (Tier 1)
+opencomputers:component:4, Component Bus (Tier 2)
+opencomputers:component:5, Component Bus (Tier 3)
+opencomputers:component:0, Central Processing Unit (CPU) (Tier 1)
+opencomputers:component:1, Central Processing Unit (CPU) (Tier 2)
+opencomputers:component:2, Central Processing Unit (CPU) (Tier 3)
+opencomputers:component:20, Disk Drive
+opencomputers:component:6, Memory (Tier 1)
+opencomputers:component:7, Memory (Tier 1.5)
+opencomputers:component:8, Memory (Tier 2)
+opencomputers:component:9, Memory (Tier 2.5)
+opencomputers:component:10, Memory (Tier 3)
+opencomputers:component:11, Memory (Tier 3.5)
+opencomputers:component:13, Server (Tier 1)
+opencomputers:component:14, Server (Tier 2)
+opencomputers:component:15, Server (Tier 3)
+opencomputers:component:12, Server (Creative)
+opencomputers:component:19, Terminal Server
+opencomputers:card:10, Data Card (Tier 1)
+opencomputers:card:11, Data Card (Tier 2)
+opencomputers:card:12, Data Card (Tier 3)
+opencomputers:card:0, Debug Card
+opencomputers:card:1, Graphics Card (Tier 1)
+opencomputers:card:2, Graphics Card (Tier 2)
+opencomputers:card:3, Graphics Card (Tier 3)
+opencomputers:card:8, Internet Card
+opencomputers:card:9, Linked Card
+opencomputers:card:6, Network Card
+opencomputers:card:4, Redstone Card (Tier 1)
+opencomputers:card:7, Wireless Network Card (Tier 2)
+opencomputers:upgrade:32, Component Bus (Creative)
+opencomputers:upgrade:0, Angel Upgrade
+opencomputers:upgrade:1, Battery Upgrade (Tier 1)
+opencomputers:upgrade:2, Battery Upgrade (Tier 2)
+opencomputers:upgrade:3, Battery Upgrade (Tier 3)
+opencomputers:upgrade:4, Chunkloader Upgrade
+opencomputers:upgrade:5, Card Container (Tier 1)
+opencomputers:upgrade:6, Card Container (Tier 2)
+opencomputers:upgrade:7, Card Container (Tier 3)
+opencomputers:upgrade:8, Upgrade Container (Tier 1)
+opencomputers:upgrade:9, Upgrade Container (Tier 2)
+opencomputers:upgrade:10, Upgrade Container (Tier 3)
+opencomputers:upgrade:11, Crafting Upgrade
+opencomputers:upgrade:12, Database Upgrade (Tier 1)
+opencomputers:upgrade:13, Database Upgrade (Tier 2)
+opencomputers:upgrade:14, Database Upgrade (Tier 3)
+opencomputers:upgrade:15, Experience Upgrade
+opencomputers:upgrade:16, Generator Upgrade
+opencomputers:upgrade:27, Hover Upgrade (Tier 1)
+opencomputers:upgrade:28, Hover Upgrade (Tier 2)
+opencomputers:upgrade:17, Inventory Upgrade
+opencomputers:upgrade:18, Inventory Controller Upgrade
+opencomputers:upgrade:26, Leash Upgrade
+opencomputers:upgrade:30, MFU
+opencomputers:upgrade:19, Navigation Upgrade
+opencomputers:upgrade:20, Piston Upgrade
+opencomputers:upgrade:21, Sign I/O Upgrade
+opencomputers:upgrade:22, Solar Generator Upgrade
+opencomputers:upgrade:23, Tank Upgrade
+opencomputers:upgrade:24, Tank Controller Upgrade
+opencomputers:upgrade:25, Tractor Beam Upgrade
+opencomputers:upgrade:29, Trading Upgrade
+opencomputers:upgrade:31, Wireless Network Card (Tier 1)
+opencomputers:storage:0, EEPROM
+opencomputers:storage:1, Floppy Disk
+opencomputers:storage:2, Hard Disk Drive (Tier 1) (1MB)
+opencomputers:storage:3, Hard Disk Drive (Tier 2) (2MB)
+opencomputers:storage:4, Hard Disk Drive (Tier 3) (4MB)
+opencomputers:misc:1, Crecopter
+opencomputers:misc:0, Microcontroller
+opencomputers:misc:0, Creatix
+opencomputers:misc:0, Tablet
+opencomputers:misc:0, Hover Boots
+opencomputers:misc:0, EEPROM (Lua BIOS)
 packagedauto:packager, Packager
 packagedauto:encoder, Package Recipe Encoder
 packagedauto:unpackager, Unpackager
@@ -1870,6 +2021,7 @@ sgcraft:sgirisblade, Stargate Iris Blade
 sgcraft:zpm, Zero Point Module
 sgcraft:tollan_phase_shift_device, Tollan Phase Shift Device
 sgcraft:pegasus_upgrade, Pegasus Type Upgrade Crystal
+sgcraft:ocinterface, OpenComputers Stargate Interface
 thermalexpansion:machine:0, Redstone Furnace (Basic)
 thermalexpansion:machine:1, Pulverizer (Basic)
 thermalexpansion:machine:2, Sawmill (Basic)
@@ -2677,6 +2829,8 @@ thermaldynamics:cover:0, Lime Jelly Cover
 thermaldynamics:cover:0, Orange Jelly Cover
 thermaldynamics:cover:0, Green Jelly Cover
 thermaldynamics:cover:0, Lemon Jelly Cover
+thermaldynamics:cover:0, Block of Chamelium Cover
+thermaldynamics:cover:0, End Stone Cover
 thermaldynamics:cover:0, Naquadah Alloy Block Cover
 thermaldynamics:cover:0, Naquadah Ore Cover
 chisel:blockaluminum:0, Block of Aluminum
@@ -5555,6 +5709,8 @@ appliedenergistics2:facade:0, Cable Facade - Pink Candy Cane
 appliedenergistics2:facade:0, Cable Facade - Yellow Candy Cane
 appliedenergistics2:facade:0, Cable Facade - Purple Candy Cane
 appliedenergistics2:facade:0, Cable Facade - Rainbow Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Block of Chamelium
+appliedenergistics2:facade:0, Cable Facade - End Stone
 appliedenergistics2:facade:0, Cable Facade - Naquadah Alloy Block
 appliedenergistics2:facade:0, Cable Facade - Naquadah Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
@@ -7609,6 +7765,22 @@ appliedenergistics2:facade:0, Cable Facade - Orange Wool
 appliedenergistics2:facade:0, Cable Facade - Orange Wool
 appliedenergistics2:facade:0, Cable Facade - Wool
 appliedenergistics2:facade:0, Cable Facade - Wool
+appliedenergistics2:facade:0, Cable Facade - White Elevator
+appliedenergistics2:facade:0, Cable Facade - Orange Elevator
+appliedenergistics2:facade:0, Cable Facade - Magenta Elevator
+appliedenergistics2:facade:0, Cable Facade - Light Blue Elevator
+appliedenergistics2:facade:0, Cable Facade - Yellow Elevator
+appliedenergistics2:facade:0, Cable Facade - Lime Elevator
+appliedenergistics2:facade:0, Cable Facade - Pink Elevator
+appliedenergistics2:facade:0, Cable Facade - Gray Elevator
+appliedenergistics2:facade:0, Cable Facade - Light Gray Elevator
+appliedenergistics2:facade:0, Cable Facade - Cyan Elevator
+appliedenergistics2:facade:0, Cable Facade - Purple Elevator
+appliedenergistics2:facade:0, Cable Facade - Blue Elevator
+appliedenergistics2:facade:0, Cable Facade - Brown Elevator
+appliedenergistics2:facade:0, Cable Facade - Green Elevator
+appliedenergistics2:facade:0, Cable Facade - Red Elevator
+appliedenergistics2:facade:0, Cable Facade - Black Elevator
 appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
 appliedenergistics2:facade:0, Cable Facade - Block of Luminessence
 appliedenergistics2:facade:0, Cable Facade - Block of Nether Stars
@@ -8287,6 +8459,22 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
+elevatorid:elevator_white, White Elevator
+elevatorid:elevator_orange, Orange Elevator
+elevatorid:elevator_magenta, Magenta Elevator
+elevatorid:elevator_light_blue, Light Blue Elevator
+elevatorid:elevator_yellow, Yellow Elevator
+elevatorid:elevator_lime, Lime Elevator
+elevatorid:elevator_pink, Pink Elevator
+elevatorid:elevator_gray, Gray Elevator
+elevatorid:elevator_silver, Light Gray Elevator
+elevatorid:elevator_cyan, Cyan Elevator
+elevatorid:elevator_purple, Purple Elevator
+elevatorid:elevator_blue, Blue Elevator
+elevatorid:elevator_brown, Brown Elevator
+elevatorid:elevator_green, Green Elevator
+elevatorid:elevator_red, Red Elevator
+elevatorid:elevator_black, Black Elevator
 extendedcrafting:storage:0, Block of Black Iron
 extendedcrafting:storage:1, Block of Luminessence
 extendedcrafting:storage:2, Block of Nether Stars
@@ -8383,6 +8571,24 @@ extendedcrafting:singularity:64, Ardite Singularity
 extendedcrafting:singularity:65, Cobalt Singularity
 extendedcrafting:singularity:66, Manyullyn Singularity
 extendedcrafting:singularity_ultimate, The Ultimate Singularity
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -8503,24 +8709,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 mysticalagriculture:storage:0, §eBlock of Inferium Essence
 mysticalagriculture:storage:1, §aBlock of Prudentium Essence
 mysticalagriculture:storage:2, §6Block of Intermedium Essence
@@ -9056,27 +9244,32 @@ mysticalcreations:witch_crop, tile.witch_crop.name
 mysticalcreations:witch_essence, item.witch_essence.name
 mysticalcreations:witch_seeds, item.witch_seeds.name
 mysticalcreations:witch_chunk, item.witch_chunk.name
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
+opensecurity:alarm, Alarm
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:security_terminal, Security Terminal
+opensecurity:biometric_reader, Biometric Reader
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:card_writer, Card Writer
+opensecurity:keypad, Keypad
+opensecurity:rfid_reader, RFID Reader
+opensecurity:entity_detector, Entity Detector
+opensecurity:energy_turret, Energy Turret
+opensecurity:data_block, Data Block
+opensecurity:secure_door, Security Door
+opensecurity:private_secure_door, Private Security Door
+opensecurity:rolldoor_controller, Rolldoor Controller
+opensecurity:rolldoor, Rolldoor
+opensecurity:door_controller, Door Controller
+opensecurity:nanofog, NanoFog
+opensecurity:mag_card, Magnetic Strip Card
+opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:rfid_card, RFID Card
+opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:nanodna, NanoDNA
+opensecurity:rfid_reader_card, RFID Reader Card
+opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:movement_upgrade, Movement Upgrade
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -9127,22 +9320,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-thermalsolars:blocksolarpanel1, Tier 1 Solar Panel
-thermalsolars:blocksolarpanel2, Tier 2 Solar Panel
-thermalsolars:blocksolarpanel3, Tier 3 Solar Panel
-thermalsolars:blocksolarpanel4, Tier 4 Solar Panel
-thermalsolars:blocksolarpanel5, Tier 5 Solar Panel
-thermalsolars:blocksolarpanel6, Tier 6 Solar Panel
-thermalsolars:blocksolarpanel101, Tier 1 Lunar Solar Panel
-thermalsolars:blocksolarpanel102, Tier 2 Lunar Solar Panel
-thermalsolars:blocksolarpanel103, Tier 3 Lunar Solar Panel
-thermalsolars:blocktitaniumore, Titanium Ore
-thermalsolars:blocklunarorenether, Lunar Ore
-thermalsolars:blockenderoreend, Ender Ore
-thermalsolars:blockenderpanel, Ender Modular Solar Panel
-thermalsolars:blocktitaniumblock, Titanium Block
-thermalsolars:blocklunarblock, Lunar Block
-thermalsolars:blockenderblock, Ender Block
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 thermalsolars:itemtitaniumglassplate, Titanium Glass Plate
 thermalsolars:itemtitaniumdust, Titanium Dust
 thermalsolars:itemtitaniumsolarcell, Titanium Solar Cell
@@ -9186,6 +9384,22 @@ thermalsolars:itemenderhammer, Ender Hammer
 thermalsolars:itemtitaniumexcavator, Titanium Excavator
 thermalsolars:itemlunarexcavator, Lunar Excavator
 thermalsolars:itemenderexcavator, Ender Excavator
+thermalsolars:blocksolarpanel1, Tier 1 Solar Panel
+thermalsolars:blocksolarpanel2, Tier 2 Solar Panel
+thermalsolars:blocksolarpanel3, Tier 3 Solar Panel
+thermalsolars:blocksolarpanel4, Tier 4 Solar Panel
+thermalsolars:blocksolarpanel5, Tier 5 Solar Panel
+thermalsolars:blocksolarpanel6, Tier 6 Solar Panel
+thermalsolars:blocksolarpanel101, Tier 1 Lunar Solar Panel
+thermalsolars:blocksolarpanel102, Tier 2 Lunar Solar Panel
+thermalsolars:blocksolarpanel103, Tier 3 Lunar Solar Panel
+thermalsolars:blocktitaniumore, Titanium Ore
+thermalsolars:blocklunarorenether, Lunar Ore
+thermalsolars:blockenderoreend, Ender Ore
+thermalsolars:blockenderpanel, Ender Modular Solar Panel
+thermalsolars:blocktitaniumblock, Titanium Block
+thermalsolars:blocklunarblock, Lunar Block
+thermalsolars:blockenderblock, Ender Block
 tombstone:decorative_grave_simple, Simple Grave
 tombstone:decorative_grave_normal, Normal Grave
 tombstone:decorative_grave_cross, Cross Grave
@@ -9613,6 +9827,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Pink Candy Cane Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Yellow Candy Cane Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Purple Candy Cane Up/Down
 chiselsandbits:block_bit:0, Chiseled Bit - Rainbow Candy Cane Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Chamelium
+chiselsandbits:block_bit:0, Chiseled Bit - End Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Naquadah Alloy Block
 chiselsandbits:block_bit:0, Chiseled Bit - Naquadah Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Aluminum
@@ -11848,6 +12064,22 @@ chiselsandbits:block_bit:0, Chiseled Bit - Venus Volcanic Rock
 chiselsandbits:block_bit:0, Chiseled Bit - Tin Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Lead Block
 chiselsandbits:block_bit:0, Chiseled Bit - Venus Dungeon Brick I
+chiselsandbits:block_bit:0, Chiseled Bit - White Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Green Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Red Elevator
+chiselsandbits:block_bit:0, Chiseled Bit - Black Elevator
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Black Iron
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Luminessence
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Nether Stars
